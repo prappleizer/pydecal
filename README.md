@@ -1,1 +1,3 @@
 # pydecal
+
+Welcome to the repository containing resources used by the ASTRON 98/198 Python Course at UC Berkeley (often called the pydecal or python decal). This repo is organized into Lectures, which are generally pdfs or interactive ipython notebooks which can be read (and small exercises completed) using either Enthought Canopy or Jupyter; Tutorials, which are just pdf's with instructions for the exercises/assignments we give our students which you are free to try); and the Textbook, which, along with the lectures, is the primary source of information needed to complete the course. The textbook was co-authored by Imad Pasha and Chris Agostino, and is free to distribute with proper crediting. 
